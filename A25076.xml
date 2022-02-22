@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the design of the late narrative, entituled, The dissenters new plot, &amp;c. written by the author of that book.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25076</idno>
+            <idno type="STC">Wing A275</idno>
+            <idno type="STC">ESTC R14792</idno>
+            <idno type="EEBO-CITATION">12940189</idno>
+            <idno type="OCLC">ocm 12940189</idno>
+            <idno type="VID">95855</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95855)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the design of the late narrative, entituled, The dissenters new plot, &amp;c. written by the author of that book.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by R. Janeway,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1689 [i.e. 1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing. Publisher from colophon.</note>
+                  <note>"Licens'd, March 17, 1689. J.F."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>True and impartial narrative of the Dissenters new plot.</term>
+               <term>Dissenters --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:95855:1"/>
+            <pb n="1" facs="tcp:95855:1"/>
+            <head>An ACCOUNT of the Deſign of the late NARRATIVE; Entituled, The <hi>Diſſenters New Plot, &amp;c.</hi>
+            </head>
+            <byline>Written by the Author of that Book.</byline>
+            <p>
+               <hi>Licens'd, <hi>March</hi>
+               </hi> 17, 1689. J. F.</p>
+            <p>WHen the <hi>Bookſeller</hi> firſt Acquain<g ref="char:EOLhyphen"/>ted me what Fate the <hi>late Nar<g ref="char:EOLhyphen"/>rative</hi> met with, and how it was Condemned <hi>to Die as ſoon as Born;</hi> and which was yet ſtranger, by ſuch as were no Enemies to the real de<g ref="char:EOLhyphen"/>ſign of the Author, I could not but reflect on a <hi>pretty</hi> paſſage very like this, of a Book Written in the laſt Age, to prove <hi>Women had no Souls;</hi> where<g ref="char:EOLhyphen"/>in were amaſs'd up Scriptures, Authorities and Reaſons to prove the Aſſertion, and all the Argu<g ref="char:EOLhyphen"/>ments to the contrary Anſwered. <hi>This was the Face of the Book,</hi> but the real deſign was to expoſe the Arguments of the <hi>Socinans</hi> againſt the Divinity of our Saviour, by making uſe of all their Topicks in the proof of this <hi>Ridiculous Aſſertion,</hi> and ſolving a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l thoſe brought againſt it in the ſame manner they were accuſtomed to do, as plainly appeared to thoſe who look'd <hi>cloſe enough</hi> into it. However, ſome <hi>good honeſt Man</hi> there was, who happened upon the Book, and not ſeeing thorough it, con<g ref="char:EOLhyphen"/>ceived a <hi>mighty</hi> Indignation againſt the Perſon who endeavoured to propagate ſuch an <hi>Antiquated He<g ref="char:EOLhyphen"/>reſie,</hi> and ſets himſelf in good earneſt to Write an Anſwer to it, to prevent the <hi>miſchief</hi> it might make in the World, wherein he would very Grave<g ref="char:EOLhyphen"/>ly refel all the Authorities and Reaſons <hi>that Wag</hi> had laid together. To prevent the ſame Trouble to any body elſe, I think it moſt convenient to An<g ref="char:EOLhyphen"/>ſwer my Book my ſelf, or rather lead the World by the Noſe into the Deſign thereof; and by this <hi>Key</hi> let the Reader into the Sence of <hi>this ſo unintelligi<g ref="char:EOLhyphen"/>ble a buſineſs:</hi>
+            </p>
+            <p>How extreamly ſome People have been <hi>ſcared with a Title Page and Index,</hi> and now and then the word <hi>Plot</hi> and <hi>Plotters</hi> in fearful great Characters, and a <hi>Black Letter,</hi> ſhall be made appear by taking this <hi>monster</hi> of a Book to pieces, after the general face thereof is firſt ſhown, by removing a Vizard, as before was <hi>eaſie enough</hi> to be ſeen thorough.</p>
+            <p>The <hi>main Wheel</hi> that gave all the leſſer motion, or <hi>general deſign</hi> of the Book, was no more then this, <hi>
+                  <g ref="char:V">Ʋ</g>nder the Mask of a Virulent Enemy to all Temper and Moderation, the Diſſenters, the Proteſtants in general, and the preſent King, as well as the late Revolution, to expoſe all the weak Arguments ſuch Perſons have made uſe of againſt Love and <g ref="char:V">Ʋ</g>nity. To acquaint the World how fowly thoſe of this Cha<g ref="char:EOLhyphen"/>racter had bely'd and blacken'd the Reformation, inſtancing eſpecially in former Ages, among others, who embraced ſuch high-flown Notions, in the Mouth and Soul of them all, the very Notorious Dr.</hi> Heylen, <hi>and ſhowing in ſeveral Inſtances how horribly he had miſrepreſented Proteſtants. Two things I need not be aſhamed to own I eſpecially aim'd at through the whole Scope of the Book,—To ſhew the Lawfulneſs of Vindicating Liberty and Religion by Arms in ſome Caſes, &amp; ſo to juſtify the late Happy Revolution here; and thoſe who were concern'd therein, and then, to prove that Hot and Bigotted Men had been the oc<g ref="char:EOLhyphen"/>caſion of all the Miſeries of this Kingdom, both in this and former Ages, with ſome Arguments for Moderation of D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fferences, and <g ref="char:V">Ʋ</g>niting all good Proteſtants, of late grown ſo jealous of one another, proving neither ſide were ſuch ill men as Prejudice, Intereſt, Miſtakes and Weakneſs equally repreſent<g ref="char:EOLhyphen"/>ed both Parties to one another.</hi>
+            </p>
+            <p>Now that this was the very and <hi>only intent</hi> of thoſe few Sheets which have made ſuch <hi>a Noiſe,</hi> if there be any need of making it more evident then the thing already is in its <hi>own Nature,</hi> it ſhall be done effectually by examining them all through, by the different Paragraphs, as they are diſtinguiſhed in the <hi>Terrible Index.</hi>
+            </p>
+            <p n="1">1. <hi>[The Introduction to two ſorts of Perſons, whom the Diſcovery will diſoblige.]</hi>
+            </p>
+            <p>This is, moſt matter of Form, being only a <hi>Pre<g ref="char:EOLhyphen"/>face</hi> ſuited to the Nature of the thing, although no doubt is to be made that ſeveral Plain Truths in the following Pages will really diſoblige and ſting the Mad-men (call them <hi>Fanaticks</hi> if you pleaſe) of both Parties, as now unhappily diſtinguiſhed into ſeparate Intereſts. This take<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up <hi>p.</hi> 5. and part of the 6. wherein tho the Maſquels immediately clap'd
+<pb n="2" facs="tcp:95855:2"/>on, by uſing one of the <hi>fleering Reflections</hi> of the preſent Enemies to the Government, in thoſe words <hi>[A King of their own]</hi> borrowed from one of their late Pamphlets; yet in the very next line the mean<g ref="char:EOLhyphen"/>ing is apparent, by adding it was the <hi>Catholick World,</hi> who had Principally ſuch thoughts of Prote<g ref="char:EOLhyphen"/>ſtants, as being indeed the only Game they have now left to play, in order to make us fall out with one another.</p>
+            <p n="2">2. [<hi>The Scheme of the whole deſign here diſcove<g ref="char:EOLhyphen"/>red, traced up to its Original in the Year</hi> 1541, <hi>whence it has been continued to this preſent Year</hi> 1690.] Wherein the Reader is told, were Imbar<g ref="char:EOLhyphen"/>qued all the <hi>moderate</hi> Men, and thoſe <hi>Beaſts</hi> of Trim<g ref="char:EOLhyphen"/>mers, as a <hi>foul mouth</hi> once called them, who joyn'd with the <hi>Diſſenters</hi> in the Unpardonable Sins after mentioned, deſiring <hi>moderation</hi> both in Church and State; the Conſideration of whoſe Plea in different Ages, will, I am ſtill of the mind, convince the World they are <hi>indeed a far different People from what they have been vulgarly accounted.</hi> Conſe<g ref="char:EOLhyphen"/>quently render the Kings good Subjects, and Friends of the Government, leſs afraid of one another, ſhow<g ref="char:EOLhyphen"/>ing their Inclinations and Deſires have been the ſame, though more warmly, leſs defenſibly, and perhaps with more earneſtneſs than the Things in diſpute would bear, proſecuted on ſome occaſions. Let but any one that has Eyes look upon the bottom of the 6 and 7 <hi>p.</hi> and if they don't find this, they muſt be very purblind; further at the bottom of the 7 <hi>p.</hi> is ſuch a Character of <hi>Heylin,</hi> as any thing that has ever read a page in him, may know the meaning of, for who ever commended him for <hi>undoubted Credit, <g ref="char:V">Ʋ</g>nbyaſſedneſs, Coolneſs,</hi> &amp;c. without Laugh<g ref="char:EOLhyphen"/>ing in their Faces whom he Diſcourſe with?</p>
+            <p>
+               <hi>The Great Cry</hi> at firſt rais'd againſt theſe Papers, was, That they <hi>Blacken'd the Reformation:</hi> I con<g ref="char:EOLhyphen"/>feſs they do ſo, juſt as much as the Holy Scrip<g ref="char:EOLhyphen"/>tures encourage Atheiſm, when they tell us,—<hi>The Fool hath ſaid in his heart there is no God:</hi> Since there is nothing in them but either the expreſs Words, or fair Conſequences from the Words, of ſuch as by their wicked prejudicate Inſinuations have done more Injury to the Proteſtant Cauſe, and de<g ref="char:EOLhyphen"/>filed their own Neſt, more then could be ever ac<g ref="char:EOLhyphen"/>compliſhed by all our profeſſed open Enemies. However, there are few of thoſe Reflections, where<g ref="char:EOLhyphen"/>of the above-mentioned D<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. Works are the exact<g ref="char:EOLhyphen"/>eſt Compendium, but what in this Book receives both <hi>Cenſure</hi> and <hi>Anſwer.</hi> The firſt and principal of which, under that Paragraph, the third in the In<g ref="char:EOLhyphen"/>dex, wherein is,</p>
+            <p n="3">3. [<hi>An Account of the Rebellious Principles of that Ringleader of Hereſie and Sedition,</hi> Jack Cal<g ref="char:EOLhyphen"/>vin <hi>of</hi> Geneva, <hi>with the chief Principle on which he built his own, and all ſucceeding Rebellions.</hi>] That this is a common accuſation of that <hi>great Man,</hi> and the <hi>civileſt</hi> treatment ſome Perſons can afford him, is notorious from many years ſad Experience. But there needs no greater Authority to Anſwer it, then that Venerable Mr. <hi>Hookers,</hi> who purpoſely de<g ref="char:EOLhyphen"/>fends him from theſe Imputations, as is proved in the 8 <hi>p.</hi>
+            </p>
+            <p>Next comes thoſe dreadful Words ſo often thrown at this <hi>great and good Men,</hi> and repreſented com<g ref="char:EOLhyphen"/>monly by his Enemies as an <hi>abſolute</hi> aſſertion, when as the contrary appears, that they are as <hi>Hy<g ref="char:EOLhyphen"/>pothetical</hi> as it was poſſible to expreſs them <hi>IF</hi> there be, <hi>&amp;c,</hi> which Power <hi>PERHAPS, &amp;c,</hi> up<g ref="char:EOLhyphen"/>on which <hi>Heylin</hi> charges all the <hi>Rebellions, Treaſons, Aſſaſſinations,</hi> &amp;c. <hi>which have ſince disfigured the Church of Chriſt.</hi> In anſwer, 'tis firſt obſerved <hi>p.</hi> 9. that this is only a Suppoſition; (and indeed ſo modeſt and evident a one as none can deny) and Secondly, That had he plainly expreſſed it, there had been neither Treaſon nor Hereſie in't, being ſuch a Truth as all oppreſſed Nations muſt be forced to own, when there is no other remedy; ſuch a one, as ſome of the moſt <hi>Learned Defenders of the preſent Revolution</hi> have chiefly inſiſted on, and laſtly, ſuch a Truth as none can deny, who will not avow themſelves open Enemies to the preſent <hi>Govern<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>But not content with thus ſtriking at their Head, the Dr. goes on with all the other Branches of the Reformation thence denominated, whom he Brands with the odious Names of <hi>Presbyterians</hi> or their <hi>Abettors,</hi> among whom he Cenſures ſeveral of our Biſhops, at leaſt one <hi>Archbiſhop,</hi> King <hi>Edward,</hi> Queen <hi>Elizabeth, and her Parliament,</hi> for ſending Aid to the <hi>French Hugonots;</hi> and there <hi>Beza</hi> and <hi>Coligny,</hi> as in the <hi>Netherlands,</hi> that Heroical Per<g ref="char:EOLhyphen"/>ſon (and why mayn't we add <hi>Bleſſed Martyr?</hi>) <hi>William</hi> the Firſt, <hi>Prince of Orange;</hi> and indeed almoſt all that Hiſtory has ever taken notice of for Brave and Remarkable among the Proteſtants on this ſide of <hi>Europe,</hi> whom how wickedly he Tra<g ref="char:EOLhyphen"/>duces, and villanouſly Blaſphemes, it is the buſineſs of the 4, 5, and 6 Paragraphs to make appear, and ſhall be further proven to the World, if any take up the Cudgels to defend him.</p>
+            <p>His remarkable value for the Proteſtant Religi<g ref="char:EOLhyphen"/>on at home, is evinced by his aſſerting all Queen <hi>Maries</hi> Bloody Reign, and the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ying ſo many Pre<g ref="char:EOLhyphen"/>deſtinary and Sacramentary Peſtilences (as he calls <hi>Calvin</hi>) therein, to be none of the <hi>greateſt Infelici<g ref="char:EOLhyphen"/>ties of the Church of</hi> England: There needs no long Conſequence to prove this upon him much clearer, then he has ſo many black Calumnies on the Re<g ref="char:EOLhyphen"/>formation. For all this following on the death of that <hi>Engliſh</hi> Joſiah <hi>King Edward,</hi> whom all the World beſides the Doctor admired; and Queen
+<pb n="3" facs="tcp:95855:2"/>
+               <hi>Marie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> coming to the Crown being the direct Conſequence of his Death, as the Cruelties that followed of her Reign, conſidering her ſuch a Bigot, I ask any fair Judge, Whether one who thought this Princes Death no <hi>Infelicity to the Church,</hi> muſt pronounce as much of all that <hi>follow'd?</hi> See this <hi>p.</hi> 12, as <hi>p.</hi> 9.10, 11. Several other Flowers and Me<g ref="char:EOLhyphen"/>morable Paſſages of the ſame Author; <hi>p.</hi> 9. He complains that by the Reformation, among other horrid Practices<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Catholic Biſhops were depoſed, <hi>Images broken,</hi> &amp;c. and lower, <hi>That God blaſted the Proteſtant Arms,</hi> for Aſſiſting their brother Hereticks in <hi>France.</hi> At the bottom, that it was only ſome <hi>Weak Prince</hi> who had granted Priviledg<g ref="char:EOLhyphen"/>es to the <hi>Netherlands, p.</hi> 10. Paints out the Prince of <hi>Orange</hi> as the worſt of Hypocrites, blacker than even <hi>Strada</hi> himſelf dar'd repreſent him; mention<g ref="char:EOLhyphen"/>ing his Murther with no blame at all, or very little on the Villain and Party that Accompliſh'd it; where<g ref="char:EOLhyphen"/>as he charges that of the <hi>D. of Guiſe</hi> full on the Heads of the Proteſtants, and ſpeaks of it with the greateſt warmth and emotion poſſible; which vile Slander is Anſwer'd in the 11th <hi>page</hi> out of his own Mouth, who acknowledges, <hi>Poultrot</hi> who accuſed them, was Wrack'd <hi>when he did it;</hi> and both <hi>Beza</hi> and <hi>Coligny</hi> abſolutely deni'd it, and proteſted their Deteſtation of the ſame.</p>
+            <p>Follows in the 12 <hi>p.</hi> his cold account of the Bar<g ref="char:EOLhyphen"/>barous, truly <hi>Popiſh Pariſian Maſſacre,</hi> of which I queſtion whether ever Author, Proteſtant, or other<g ref="char:EOLhyphen"/>wiſe, made mention without ſome note of Deteſta<g ref="char:EOLhyphen"/>tion and Horror, <hi>beſides himſelf,</hi> whoſe injuſtice in this Caſe is ſufficiently expoſed by his being commended for his <hi>warmth</hi> and <hi>zeal</hi> therein.</p>
+            <p>The Deſigns for Unity and Moderation, and how they were croſs'd &amp; rendred ineffectual about thoſe times, are recounted in the 13th <hi>p.</hi> which, its there added, had then been effected, <hi>Had not the ever Loyal Catholick Party, in meer Zeal for the Pro<g ref="char:EOLhyphen"/>testant Religion, by Law Establiſhed; obſtructed the execution of ſuch a perilous</hi> Plot. Which Expreſſi<g ref="char:EOLhyphen"/>on, if there be any ſo dull to believe ſerious, one may conclude them indued with juſt ſuch a <hi>conve<g ref="char:EOLhyphen"/>nient</hi> portion of Senſe, as would go to the making a <hi>Jacobite.</hi>
+            </p>
+            <p>The <hi>Lawfulneſs of Reſiſtance,</hi> and the Opinion and Practices of the Church of <hi>England</hi> therein, is made appear, <hi>p.</hi> 14. and ſhall be further againſt any who deny the Conſequence, wherein, altho' the ſame Cover is ſtill uſed, the intent is clear enough from calling the Kings of <hi>France</hi> or <hi>Spain,</hi> their Subjects Liege Lords, and <hi>Tyrants;</hi> and the paſſage at the end of that Paragraph, concerning the <hi>Indi<g ref="char:EOLhyphen"/>ans Worſhipping the Devil for no other reaſon but that be mayn't hurt them.</hi>
+            </p>
+            <p>At the foot of this 14th <hi>p. Beza</hi>'s Temper, and Moderation is noticed and commended as the next recounts ſeveral great and good Men of the <hi>Engliſh</hi> Church, who were for mitigation and <hi>retrenchments</hi> in Controverted Matters. Where alſo the Doctor's Juſtice is remark'd for charging the Papiſts Defe<g ref="char:EOLhyphen"/>ction from our Communion <hi>(known to be occaſion'd by the Pope's Bull)</hi> on this ſame Party who might juſt with as much Equity be anſwerable for all the Plots thereafter contrived, as well as all other Miſ<g ref="char:EOLhyphen"/>chiefs to the Kingdom, and therefore be expoſed on all occaſions to Vexation and Ruin, as the old <hi>Christians</hi> formerly were.</p>
+            <p>As for King <hi>James</hi> the Firſt's Reign, there are only two or three paſſages touch'd in it too noto<g ref="char:EOLhyphen"/>rious to thoſe who have read the Hiſtory. <hi>Abbot'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Diſgrace, <hi>Lady</hi> Eſſex<hi>'s fine Buſineſs, Powder Trea<g ref="char:EOLhyphen"/>ſon,</hi> &amp;c. Which laſt was contrived to be thrown on the <hi>Puritans,</hi> if executed.</p>
+            <p>As for the 8th Paragraph (or Chapter, which the <hi>Reader</hi> pleaſe) what happened in the Reign of King <hi>Charles</hi> the Firſt, <hi>&amp;c.</hi> The Deſign of it is to ſhow the unhappy Occaſions of the Misfortunes thereof, taking off a little of the Load from one ſide, and all of it from Moderation, and laying it where it ought to be, on the hot Heads and high Men of both Parties, beginning from the Illegalities encouraged and Preached up by Ambitious and Turbulent Men, and <hi>undefencible Heights</hi> required both in Church and State; the diſobliging and ridiculing Law, Law<g ref="char:EOLhyphen"/>yers, and Gentlemen, with ſeveral other ſad Truths, not revived to exaſperate, but <hi>warn Parties</hi> any way concern'd.</p>
+            <p>Next are recounted the Names of ſome of thoſe Excellent Perſons who about this time were beſt in<g ref="char:EOLhyphen"/>clined to <hi>Abatement</hi> and <hi>Moderation,</hi> with the uſage they met with from the contrary Party, particularly the <hi>truly Apoſtolical Biſhop <g ref="char:V">Ʋ</g>ſher.</hi> whom <hi>Heylen</hi> moſt civilly and dutifully calls a <hi>Walking Library,</hi> and Writ profeſſedly againſt him, going in the ſame way wherein thoſe of his Genius have ſince exactly trod; how much and how juſtly ſoever they may blame others for want of Reſpect to thoſe over them in the Lord, never themſelves to pay ſo much as Civility, how much leſs then Obedience to ſuch as do not pleaſe them in their own beloved Notions. And here is added a particular Character of the Famous Doctor, <hi>whom we now take leave of,</hi> un<g ref="char:EOLhyphen"/>leſs any of his Friends have the ſtomach to defend him. In the 26 and 27 <hi>p.</hi> where he is commend<g ref="char:EOLhyphen"/>ed for two or three Vertues, neither of which, I am pretty confident, the worſt Friend he has ever Scan<g ref="char:EOLhyphen"/>daliz'd him with before, <hi>viz. Gravity, Ingenuity and Good Nature</hi> (in which indeed he's hardly to be paralell'd, unleſs by the Famous little Doct<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Coſmus Blene,</hi> afterwards mention'd) and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hiſtory of the Reformation, <hi>&amp;c.</hi> Vindicated for
+<pb n="4" facs="tcp:95855:3"/>juſt <hi>as much</hi> ſignal Veracity, as his other Legend of St. <hi>George,</hi> which he would perſwade the World he did himſelf believe by his Book, written concern<g ref="char:EOLhyphen"/>ing that <hi>Renowned Champion.</hi> Nor can any one juſtly blame this ſeverity to <hi>his Memory,</hi> who uſed <hi>that</hi> of thoſe before him no better, and whoſe Cre<g ref="char:EOLhyphen"/>dit muſt of neceſſity be weaken'd, in order to vin<g ref="char:EOLhyphen"/>dicate theirs; ſince it's notorious, moſt of his Aſ<g ref="char:EOLhyphen"/>ſertions depend only on his own Word; and laſt<g ref="char:EOLhyphen"/>ly, who turn'd al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Venom of his Ink and Soul,</hi> and ſtream of his Studies to Diſgrace and Villifie almoſt all parts of the Reformation.</p>
+            <p>The 28<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <hi>p.</hi> endeavours to rectifie the Judgment and unite the Affections of all Honeſt <hi>Engliſhmen</hi> by ſhowing who <hi>were,</hi> and who <hi>were not</hi> concern'd in the black and barbarous Murther of the Bleſſed Martyr King <hi>Charles</hi> the I.</p>
+            <p>[<hi>What happen'd after the Reſtoration,</hi> &amp;c.] What Expectations of Unity and fair Tendencies and Advances made thereunto, and what Advan<g ref="char:EOLhyphen"/>tages expected from it, how fruſtrated, <hi>p.</hi> 30 and 31. How thereon <hi>Schiſms were perpetuated,</hi> and all very near ruin'd.</p>
+            <p>Thoſe ſlanderous <hi>Matters of Truth</hi> which follow, one would think ſhould be too groſs Banters to ſlip down any Man's Reaſon, who had not before <hi>en<g ref="char:EOLhyphen"/>larg'd his ſwallow with plain Contradictions.</hi> They are indeed ſeveral ſad Truths which could be never beat into the Souls of ſome Men, but which all think<g ref="char:EOLhyphen"/>ing Perſons, not very much byaſs'd, all along be<g ref="char:EOLhyphen"/>lieved, in that ſenſe here intended.</p>
+            <p>For the firſt of them, the <hi>Brothers</hi> being Recon<g ref="char:EOLhyphen"/>ciled to <hi>Rome</hi> (let it be granted, in ſome meaſure owing to our unhappy Diviſions) How many <hi>Plot<g ref="char:EOLhyphen"/>ters</hi> would an Honeſt Man have been call'd for<g ref="char:EOLhyphen"/>merly for aſſerting or believing it? Let the Friends of theſe Reigns, Miſgovernments, and the late Kings Perſon and Cauſe, chuſe which of the two they will have, either believe both the Brothers were of that Synagogue, or elſe, that <hi>their own</hi> Kings <hi>Word</hi> and Honour (as well as <hi>Faith</hi> and <hi>Oath</hi>) are broken.</p>
+            <p>
+               <hi>Take paſs the Debauchery of the Nation,</hi> another Calumny is clear as the Sun, the third of them, the <hi>Fire</hi> muſt not be ſlipp'd ſo haſtily, treated of in the 3d Page, wherein in a few Lines, is the ſtrength of our charge againſt the Papiſts, as being under the Devil, the immediate Actors thereof; in proof of which are produced, the <hi>Depoſitions before the Committee in Parliament,</hi> the poſitive free <hi>Con<g ref="char:EOLhyphen"/>feſſion</hi> of Parties concerned in the very thing, and the Inſcription fixed on the Monument, as an <hi>Act of the City of London,</hi> aſſerting the truth of it, which ſo ga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l'd thoſe concern'd, that they always ſquinted at it (<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike the Figure of <hi>Envy it ſelf</hi> cary'd thereon) <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they got it razed out agen. 'Tis further added, That there's no face of an Argument contrair to this Truth, but two or three <hi>Obſervators,</hi> which if they are ſufficient to counterbalance the weight laid in the other Scale, <hi>the Author will be willing to own himſelf a Jeſuit.</hi>
+            </p>
+            <p>To this ſucceed, like a pair of Buckets, the <hi>Po<g ref="char:EOLhyphen"/>piſh and Rie-houſe Plot,</hi> which ever of them goes up, t'other of neceſſity goes down. The chief of the Papiſts proteſted themſelves as Innocent <hi>as the Child unborn. Rumbold,</hi> the very head of the other, did as much at his Death. Let the World believe which they pleaſe; one thing is certain, the <hi>Jeſuits Religion</hi> gives them leave to go out of the World with <hi>a Lie in thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mouths,</hi> which ours does not.</p>
+            <p>
+               <hi>To make us all Friends,</hi> ſucceeds an Account of what hap<g ref="char:EOLhyphen"/>pened on the late King's offering <hi>Toleration,</hi> and of the Be<g ref="char:EOLhyphen"/>haviour of thoſe who were then Careſs'd by <hi>Papist and Church Men,</hi> to win them to their Intereſt. Wherein, how much they were wrought upon by the Famous <hi>Letter to the Diſ<g ref="char:EOLhyphen"/>ſenters;</hi> the Reaſon of the Thing, the Aſſurances of ſome great Perſons, and Examples of others to joyn in the common Intereſt of Proteſtants againſt the common Enemy, and how ſtrange a Check this gave to thoſe who equally hated them both, is not yet, and <hi>its pitty it ſhould ever be forgotten.</hi> In purſuance of which, are ſeveral plain Truths aſſerted, That their Body was not engaged either in <hi>Addreſſing,</hi> or altering the Government, and pulling down that Wall we then ſo much needed.</p>
+            <p>What had paſs'd, is the more largely deſcribed, becauſe a Looking-Glaſs for the preſent and future Ages, that if Per<g ref="char:EOLhyphen"/>ſons will ſuck up what was formerly parted with, Miſtakes, J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alouſies, particular Follies, they may at leaſt be the more inexcuſable. The preſent ſtate of things ſucceeds, wherein, as in the Index No. 8. of the <hi>preſent Plot and Deſign to over<g ref="char:EOLhyphen"/>throw the Church and State,</hi> by the methods there de<g ref="char:EOLhyphen"/>ſcribed, And it were ſeriouſly to be wiſh'd that ſome Men by their Follies and Wickedneſs had not given any ſeeming Rea<g ref="char:EOLhyphen"/>ſon for ſuch a Suſpicion and Jealouſie; and on the contrair, that this Suſpicion and Fear, and the wild Words and Acti<g ref="char:EOLhyphen"/>ons of ſome Imprudent or Ill Men, had not been heark<g ref="char:EOLhyphen"/>en'd to greedily, Heightned and Exaſperated, and almoſt Eſpouſed by whole Parties, thereby ſetting them to Counter<g ref="char:EOLhyphen"/>mining, where there might indeed be no <hi>Mine at all,</hi> and ſo weakning Peace and Unity, the very Bulwarks of the King<g ref="char:EOLhyphen"/>dom. However, <hi>all the Plot the Author knows,</hi> he freely diſcovers: As <hi>p.</hi> 33. All good and moderate Men being for<g ref="char:EOLhyphen"/>ced into the ſame Notions of Government and Allegiance. That for thoſe ill Perſons and Actions Aggravated in ſome Parties, the good and honeſt Men among them refuſe to own them, or any ſeparate Intereſt from the publick. That the <hi>Moderate on both ſides</hi> are almoſt of the ſelf ſame mind, con<g ref="char:EOLhyphen"/>cerning ſeveral things controverted at the foot of <hi>p.</hi> 34. and in in the 35 are expoſed ſome of the moſt remarkable Argu<g ref="char:EOLhyphen"/>ments againſt any Mittigation or Alteration: The laſt of which, indeed, is the weightieſt; <hi>ſome Perſons would fain have the Author of all our Miſeries once more return, to make us as <g ref="char:V">Ʋ</g>nhappy as the poor</hi> Iriſh <hi>now are.</hi> Theſe juſtly apprehend that were our Intereſts, Hearts, and Councils once United, this were impoſſible; and what wonder they ſhould conſe<g ref="char:EOLhyphen"/>quently oppoſe the means, in order to prevent the End.</p>
+            <p>After Anſwering Arguments, contrary to Moderation, come thoſe for it, without doubt the ſtrongeſt in the World, <hi>Gods Glory the Intereſt of Europe, the Good of</hi> England <hi>in general, and even of all particular Parties;</hi> wherein the Author per<g ref="char:EOLhyphen"/>ſwades himſelf he has done as much Juſtice to all ſides, as well as intended, and he hopes really <hi>taken</hi> the Intereſts of his Country, as ever any who Wrote on this Subject. For <hi>which Work, and for the Explanation and Defence of it, he is no ſooner got clear of one ſide, but he expects the attacks of another, which he ſhall endeavour to be ready for, whenever they think fit to make them.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Sold by</hi> R. Janeway.</p>
+            <pb facs="tcp:95855:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
